@@ -1,0 +1,1 @@
+double calculateFee(int parkingDuration);
